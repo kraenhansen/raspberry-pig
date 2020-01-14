@@ -1,0 +1,19 @@
+{
+  "name": "raspberry-pig",
+  "version": "0.1.0",
+  "description": "Remote-poke the pig on my desk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kraenhansen/raspberry-pig.git"
+  },
+  "author": "Kræn Hansen <mail@kraenhansen.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kraenhansen/raspberry-pig/issues"
+  },
+  "homepage": "https://github.com/kraenhansen/raspberry-pig#readme"
+}
